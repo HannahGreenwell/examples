@@ -1,0 +1,13 @@
+body {
+  font-family: helvetica;
+  background-color: rgb(245, 164, 212);
+}
+
+img {
+  max-width: 400px;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 3px;
+}
